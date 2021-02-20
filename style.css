@@ -12,11 +12,13 @@ body{
 }
 #first-h{
     color: orange;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:40px;
+    font-weight: bold;
 }
 #second-h{
-    color:blue;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(4, 4, 27);
+    font-size: 40px;
+    font-weight: bold;
 }
 .text button{
     padding: 10px 30px;
